@@ -1,8 +1,8 @@
-package algorithm01;
+package inputoutputandarithmeticoperations;
 
 import java.util.Scanner;
 
-public class AMinusB {
+public class AMultiplyB {
 
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
@@ -11,7 +11,7 @@ public class AMinusB {
 		int B = scanner.nextInt();
 
 		if (0 < A && 10 > A && 0 < B && 10 > B) {
-			System.out.println(A - B);
+			System.out.println(A * B);
 		}
 
 		scanner.close();

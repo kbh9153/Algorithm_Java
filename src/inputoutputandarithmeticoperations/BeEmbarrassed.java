@@ -1,4 +1,4 @@
-package algorithm01;
+package inputoutputandarithmeticoperations;
 
 import java.util.Scanner;
 

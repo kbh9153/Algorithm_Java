@@ -1,4 +1,4 @@
-package algorithm01;
+package inputoutputandarithmeticoperations;
 
 public class Cat {
 	
